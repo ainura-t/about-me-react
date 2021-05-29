@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+}
+img {
+  width: 200px;
+}
+span {
+  font-weight: bold;
+}
+.tool li {
+  width: 100%;
+  display: flex;
+}
+.tool {
+  border: solid 1px;
+  padding-left: 0px;
+}
+.title {
+  text-align: center;
+}
+.name {
+  width: 150px;
+
+  margin: 1px;
+  border: solid 1px;
+}
+.p {
+  width: 90%;
+  border: solid 1px;
+  margin: 1px;
+}
